@@ -1,4 +1,3 @@
-DefaultContentLanguage = "en"
 baseURL = "https://www.sandrahinder.com/"
 theme = "boot"
 relativeURLs = true
