@@ -1,0 +1,35 @@
+DefaultContentLanguage = "en"
+baseURL = "https://www.sandrahinder.com/"
+theme = "boot"
+relativeURLs = true
+googleAnalytics = "UA-XXX" # Your Analytics ID here
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+title= "SandraHinder.com | Sandra Hinder Ballet Dance Teacher"
+description= "Sandra Hinder started ballet in Richmond, BC and graduated from the prestigious National Ballet School of Canada."
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+
+
+[params]
+    # Schema Information
+    businessname = "Sandra Hinder"
+    type = "LocalBusiness" # Enter Your Type of business - schema.org
+    pricerange = "2" # Enter Your Price range 1 to 5
+    reviewcount = "5" # How many reviews you've got
+    reviewvalue = "4.5" # Average ratings on Yelp & Google
+    reservation = "false" # Do you accept reservations? Enter true or false
+    openinghour = "Mo-Fr 9:00-17:00" # Opening Hours
+    address = "876 Elina Rd" # Enter Address Here
+    city = "Ucluelet" # Enter City
+    region = "BC" # Enter State or Province Here
+    country = "Canada" #Enter Country Here
+    postalcode = "V0R 3A0" # Enter Postal Code
+    phone = "+1-844-467-8326" # Enter Phone Number
+    email = "hello@supersonicsites.com" # Enter Your Email
+    facebookurl = "https://www.facebook.com/"
+    instagram = "https://instagram.com/"
+    logo = "img/logo.jpg"
+    image = "img/og.jpg" # Ideal 1200 x 630 for schema + og
